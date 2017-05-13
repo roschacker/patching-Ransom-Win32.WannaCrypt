@@ -27,6 +27,11 @@ windows8-rt-kb4012217-x64_96635071602f71b4fb2f1a202e99a5e21870bc93.msu
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8-rt-kb4012217-x64_96635071602f71b4fb2f1a202e99a5e21870bc93.msu
 
 
+Windows 7
+Обновление качества (только система безопасности) для Windows 7 (KB4012212), март 2017 г. 	Windows 7 	Обновления системы безопасности 	28.03.2017  18,8 MB
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/02/windows6.1-kb4012212-x86_6bb04d3971bb58ae4bac44219e7169812914df3f.msu
+
+
 Windows XP (wxp)
 
 KB4012598
@@ -44,6 +49,8 @@ http://download.windowsupdate.com/d/csa/csa/secu/2017/02/windowsxp-kb4012598-x86
 
 
 Security Update for Windows XP SP2 for x64-based Systems (KB4012598)  Windows XP x64 Edition  Security Updates  13.05.2017  1,9 MB
+
+http://download.windowsupdate.com/d/csa/csa/secu/2017/02/windowsserver2003-kb4012598-x64-custom-enu_f24d8723f246145524b9030e4752c96430981211.exe
 
 
 
