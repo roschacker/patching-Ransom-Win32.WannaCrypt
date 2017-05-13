@@ -20,4 +20,10 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/wind
 KB4012217
 
 March, 2017 Security Monthly Quality Rollup for Windows Server 2012 (KB4012217)  Security Updates 	3/13/2017  106.5 MB
+
+March, 2017 Security Monthly Quality Rollup for Windows Server 2012 (KB4012217)
+windows8-rt-kb4012217-x64_96635071602f71b4fb2f1a202e99a5e21870bc93.msu
+
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows8-rt-kb4012217-x64_96635071602f71b4fb2f1a202e99a5e21870bc93.msu
+
   
