@@ -38,13 +38,20 @@ www.catalog.update.microsoft.com/Search.aspx?q=KB4012598
 Security Update for Windows XP SP3 (KB4012598) 	Windows XP 	Security Updates 	5/13/2017  665 KB
 http://download.windowsupdate.com/d/csa/csa/secu/2017/02/windowsxp-kb4012598-x86-custom-enu_eceb7d5023bbb23c0dc633e46b9c2f14fa6ee9dd.exe
 
+Обновление для системы безопасности Windows XP SP3 (KB4012598) — особая поддержка  Windows XP  Обновления системы безопасности  13.05.2017  672 KB
 
-
+Security Update for Windows XP SP2 for x64-based Systems (KB4012598)  Windows XP x64 Edition  Security Updates  13.05.2017  1,9 MB
 
 
 
 Windows Server 2003
 
-Security Update for Windows Server 2003 for x64-based Systems (KB4012598) 	Windows Server 2003,Windows Server 2003, Datacenter Edition 	Security Updates 	5/13/2017  951 KB 	
+Security Update for Windows Server 2003 for x64-based Systems (KB4012598) 	Windows Server 2003,Windows Server 2003, Datacenter Edition 	Security Updates 	5/13/2017  951 KB
+
 Security Update for Windows Server 2003 (KB4012598) 	Windows Server 2003,Windows Server 2003, Datacenter Edition 	Security Updates 	5/13/2017  682 KB
+
+Обновление для системы безопасности Windows Server 2003 для систем на базе 64-разрядных (x64) процессоров (KB4012598) - особая поддержка  Windows Server 2003,Windows Server 2003, Datacenter Edition  Обновления системы безопасности  13.05.2017  959 KB
+
+Обновление для системы безопасности Windows Server 2003 (KB4012598) — особая поддержка  Windows Server 2003,Windows Server 2003, Datacenter Edition  Обновления системы безопасности  13.05.2017  691 KB
+
  
