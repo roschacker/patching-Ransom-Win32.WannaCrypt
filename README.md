@@ -28,8 +28,15 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/wind
 
 
 Windows 7
+
+KB4012215
+
 Обновление качества (только система безопасности) для Windows 7 (KB4012212), март 2017 г. 	Windows 7 	Обновления системы безопасности 	28.03.2017  18,8 MB
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/02/windows6.1-kb4012212-x86_6bb04d3971bb58ae4bac44219e7169812914df3f.msu
+
+March, 2017 Security Monthly Quality Rollup for Windows 7 for x64-based Systems (KB4012215)
+windows6.1-kb4012215-x64_a777b8c251dcd8378ecdafa81aefbe7f9009c72b.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows6.1-kb4012215-x64_a777b8c251dcd8378ecdafa81aefbe7f9009c72b.msu
 
 
 Windows XP (wxp)
