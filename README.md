@@ -1,5 +1,7 @@
 # patching-Ransom-Win32.WannaCrypt
 
+GitHub has a 25MB file limit, so use links to download.windowsupdate.com and yadi.sk
+
 Windows 2012 Server (w62-x64)
 
 KB4012214
