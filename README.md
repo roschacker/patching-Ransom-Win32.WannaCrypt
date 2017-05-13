@@ -81,3 +81,28 @@ http://download.windowsupdate.com/c/csa/csa/secu/2017/02/windowsserver2003-kb401
 
 
  
+
+
+Windows 8.1 for 32-bit
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/windows8.1-kb4012213-x86_e118939b397bc983971c88d9c9ecc8cbec471b05.msu
+
+Windows 8.1 for x64
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/windows8.1-kb4012213-x64_5b24b9ca5a123a844ed793e0f2be974148520349.msu
+
+Windows 10 for 32-bit
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4012606-x86_8c19e23de2ff92919d3fac069619e4a8e8d3492e.msu
+
+Windows 10 for x64
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4012606-x64_e805b81ee08c3bb0a8ab2c5ce6be5b35127f8773.msu
+
+Windows 10 Version 1511 for 32-bit
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4013198-x86_f997cfd9b59310d274329250f14502c3b97329d5.msu
+
+Windows 10 Version 1511 for x64
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4013198-x64_7b16621bdc40cb512b7a3a51dd0d30592ab02f08.msu
+
+Windows 10 Version 1607 for 32-bit
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4013429-x86_8b376e3d0bff862d803404902c4191587afbf065.msu
+
+Windows 10 Version 1607 for x64
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/03/windows10.0-kb4013429-x64_ddc8596f88577ab739cade1d365956a74598e710.msu
