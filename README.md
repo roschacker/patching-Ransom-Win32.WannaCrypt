@@ -1,4 +1,4 @@
-# patching-Ransom-Win32.WannaCrypt
+# Patching Ransom:Win32.WannaCrypt - Download Links (English and Russian)
 
 GitHub has a 25MB file limit, so use links to download.windowsupdate.com and yadi.sk
 
@@ -62,5 +62,8 @@ http://download.windowsupdate.com/c/csa/csa/secu/2017/02/windowsserver2003-kb401
 
 
 Обновление для системы безопасности Windows Server 2003 (KB4012598) — особая поддержка  Windows Server 2003,Windows Server 2003, Datacenter Edition  Обновления системы безопасности  13.05.2017  691 KB
+
+http://download.windowsupdate.com/c/csa/csa/secu/2017/02/windowsserver2003-kb4012598-x86-custom-rus_62e38676306f9df089edaeec8924a6fdb68ec294.exe
+
 
  
