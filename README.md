@@ -1,0 +1,1 @@
+# patching-Ransom-Win32.WannaCrypt
