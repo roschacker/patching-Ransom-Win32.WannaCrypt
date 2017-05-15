@@ -89,17 +89,83 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/wind
 Windows 8.1 for x64
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/windows8.1-kb4012213-x64_5b24b9ca5a123a844ed793e0f2be974148520349.msu
 
+Windows 10
+(3 versions, Use winver from find menu to check yours)
+
 Windows 10 for 32-bit
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4012606-x86_8c19e23de2ff92919d3fac069619e4a8e8d3492e.msu
 
 Windows 10 for x64
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4012606-x64_e805b81ee08c3bb0a8ab2c5ce6be5b35127f8773.msu
 
+
 Windows 10 Version 1511 for 32-bit
+
+KB4013198
+
+Название 	Продукты 	Классификация 	Последнее обновление 	Размер 	
+	Накопительный пакет обновления для Windows 10 Version 1511 (KB4013198) 	Windows 10 	Обновления системы безопасности 	10.03.2017 	569,6 MB 	
+Накопительный пакет обновления для Windows 10 Version 1511 для систем на базе процессоров x64 (KB4013198) 	Windows 10 	Обновления системы безопасности 	10.03.2017 	Н/Д 	1079,9 MB
+
+Cumulative Update for Windows 10 Version 1511 (KB4013198)
+windows10.0-kb4013198-x86_f997cfd9b59310d274329250f14502c3b97329d5.msu
+
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4013198-x86_f997cfd9b59310d274329250f14502c3b97329d5.msu
 
+KB4013198
+Это обновление заменено следующими обновлениями (3):
+
+(1/3)
+Накопительный пакет обновления для Windows 10 Version 1511 (KB4015219)
+Изменено: 04.05.2017
+Размер: 570,6 MB 
+
+KB4015219
+Это обновление заменено следующими обновлениями:
+Накопительный пакет обновления для Windows 10 Version 1511 (KB4019473)
+
+
+(2/3)
+Накопительный пакет обновления для Windows 10 Version 1511 (KB4016636)
+Изменено: 23.03.2017
+Размер: 570,4 MB
+
+Накопительный пакет обновления для Windows 10 Version 1511 для систем на базе процессоров x64 (KB4016636) 	Windows 10 	Обновления 	23.03.2017 	Н/Д 	1070,3 MB 	
+Накопительный пакет обновления для Windows 10 Version 1511 (KB4016636) 	Windows 10 	Обновления 	23.03.2017 	Н/Д 	570,4 MB
+ 
+KB4016636
+Это обновление заменено следующими обновлениями:
+Накопительный пакет обновления для Windows 10 Version 1511 (KB4015219)
+
+KB4015219
+Это обновление заменено следующими обновлениями:
+Накопительный пакет обновления для Windows 10 Version 1511 (KB4019473)
+
+
+(3/3)
+Накопительный пакет обновления для Windows 10 Version 1511 (KB4019473)
+Изменено: 05.05.2017
+Размер: 571,8 MB 
+
+Cumulative Update for Windows 10 Version 1511 (KB4019473)
+windows10.0-kb4019473-x86_5e2b7bce2f1b116288b4f1f78449c66ecc7c7a53.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/05/windows10.0-kb4019473-x86_5e2b7bce2f1b116288b4f1f78449c66ecc7c7a53.msu
+
+
+
 Windows 10 Version 1511 for x64
+Название 	Продукты 	Классификация 	Последнее обновление 	Размер 	
+Накопительный пакет обновления для Windows 10 Version 1511 для систем на базе процессоров x64 (KB4013198) 	Windows 10 	Обновления системы безопасности 	10.03.2017 	1079,9 MB
+ 
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4013198-x64_7b16621bdc40cb512b7a3a51dd0d30592ab02f08.msu
+
+(2/3)
+
+Накопительный пакет обновления для Windows 10 Version 1511 для систем на базе процессоров x64 (KB4016636) 	Windows 10 	Обновления 	23.03.2017 	1070,3 MB 	
+
+
+
+
 
 Windows 10 Version 1607 for 32-bit
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/03/windows10.0-kb4013429-x86_8b376e3d0bff862d803404902c4191587afbf065.msu
